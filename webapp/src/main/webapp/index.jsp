@@ -1,2 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Testing my auto-build </h2>
+<h1> Deploying to container using Ansible   </h1>
